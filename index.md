@@ -3,7 +3,6 @@ layout: page
 title: 
 ---
 
-## Narrative Description
 ![](/assets/pictures/IMG_20240615_211742.jpg)
 On June 13th, 2024 my longtime partner Samuel Schaefer (30) and I, Russell Bangert (37) were enjoying all that Tuolumne provides, climbing the Northwest Buttress of Tenaya Peak (5.5, 1400'). This was my first day in Tuolumne, and Sam's third time up the route. 
 
