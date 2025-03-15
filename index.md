@@ -25,7 +25,7 @@ I have no memory of the impact, and the slope at the bottom of the slab was than
 
 My memory seems to promptly return after I come to a stop, face down on top of several basket ball sized rocks sticking up out of the dirt. I move my fingers, and then my toes... I'm not paralyzed! I roll over on my side moaning, see Sam scrambling down to me, and notice that I'm soaking wet, covered in mud, and I can't breathe. 
 
-I stand up in a daze as Sam cries out for me to stop moving. I rip my shirt off, look at my body for trauma, sit down, then roll onto my back panting, looking up at the cloudy sky. Immediately, a swarm of mosquitoes descends upon me. I pick up my left arm to look at the dozen or so already on it, and make a futile attempt to brush them off before giving up to just lay there, as the swarm returns. 
+In a frantic daze I stand up gasping for air, as Sam cries out for me to stop moving. I rip my shirt off, look at my body for trauma, sit down, then roll onto my back panting, looking up at the cloudy sky. Immediately, a swarm of mosquitoes descends upon me. I pick up my left arm to look at the dozen or so already on it, and make a futile attempt to brush them off before giving up to just lay there, as the swarm returns. 
 
 Once Sam gets down to me we discuss the situation. I tell Sam I think I just have some bulging disks and my ribs hurt. He points out how good of a position we are in for a short-haul, and asks if I want him to go get help. I think about waiting there with the mosquitoes for hours, then go over the feedback my body is giving me from my injuries with him. I decide that I am going to try to walk the 100 feet to tree line to evaluate if walking out is on the table. 
 
@@ -43,10 +43,10 @@ As I finally finish writing this 9 months to the day after, I still routinely st
 ### My accident resulted from a combination of factors:
 1. **Confirmation Bias** – 6 seasons in Little Cottonwood Canyon allowed me to feel right at home on my first day in Tuolumne. I thought I knew how polished a glacier could get some white granite. I'd walked outward down steeper slabs in flip flops!
 2. **Complacency in Gear Selection** - I'm seasoned enough to have defaulted to carrying a small spray pen of Deet in the first-aid kit I *always* carry on me on alpine missions, from learning the mosquito lesson the hard way in the past. I was aware that I had forgotten it back in Huff, as I participated in the decision to leave Sam's bottle it in the car. 
-3. **Complacency in the Final Stages** – With the end of the exposed scramble in sight, I let my guard down. We all know 80 percent of accidents happen on the way down. I've been cracking jokes about going in on the walk back to the car after doing something cool for a decade.  
+3. **Complacency in the Final Stages** – We all know 80 percent of accidents happen on the way down, and I've been cracking jokes about going in on the walk back to the car after doing something cool for a decade. With the end of the exposed scramble in sight, I let my guard down well before I should have.  
 4. **Moving with Haste** – The approaching storm and mosquito swarms created a false sense of urgency. Allowing external pressures to cause you to rush in consequential terrain is rarely a good idea. 
 
-I am so extremely fortunate to have been able to get up and walk it off to avoid laying there for the mosquitoes on that damp slope. I don't have the resources required to fully communicate how grateful I am for the people here in Yosemite who have been there for me in some way, while I have been healing. The fact that I am not limited in anyway just 9 months later feels nothing short of miraculous. 
+I am so extremely fortunate to have been able to get up and walk it off to avoid laying there for the mosquitoes on that damp slope. I don't have the resources required to fully communicate how grateful I am for the people here in Yosemite who have been there for me in some way while I have been healing. The fact that I am not limited in anyway just 9 months later feels nothing short of miraculous. 
 
 
 ![](/assets/pictures/PXL_20240616_064723719.jpg)
