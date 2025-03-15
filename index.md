@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tenaya Peak
+title: 
 ---
 
 ## Narrative Description
