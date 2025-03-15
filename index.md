@@ -3,111 +3,55 @@ layout: page
 title: Bootstrap 4 Github Pages
 ---
 
-[![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/nicolas-van) [![GitHub Repo stars](https://img.shields.io/github/stars/nicolas-van/bootstrap-4-github-pages?style=social)](https://github.com/nicolas-van/bootstrap-4-github-pages)
+## Narrative Description
+![[assets/pictures/IMG_20240615_211742.jpg]]
+On June 13th, 2024 my longtime partner Samuel Schaefer (30) and I, Russell Bangert (37) were enjoying all that Tuolumne provides, climbing the Northwest Buttress of Tenaya Peak (5.5, 1400'). This was my first day in Tuolumne, and Sam's third time up the route. 
 
-A [Bootstrap 5](https://getbootstrap.com/) template project for [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
+![[assets/pictures/IMG_20240613_212003.jpg]]
+As we finish the route, storms are building in the distance, and we quickly scurry over the summit then down the shorter and steeper decent option back down into the cloud of mosquitoes that plague the area this time of year. 
 
-* A full Bootstrap 5 theme usable both on Github Pages and with a standalone Jekyll.
-* Recompiles Bootstrap from SCSS files, which allows to customize Bootstrap's variables and use Bootstrap themes.
-* Full support of Bootstrap's JavaScript plugins.
-* Supports all features of Github Pages and Jekyll.
+![[assets/pictures/IMG_20240617_160923.jpg]]
 
-## Setup Guide
+We proceed across the ledge system at the top of the slabs, back down into the mosquitoes as lighting strikes pop off in the distance. As we get lower, each step through the grassy parts of the ledge kicks up clouds of mosquitoes. After cracking jokes about our decision to leave the Deet in the car, I find myself looking out across the final section of slab down into the trees. A premature sense of relief washes over me as I miscalculate the frictional coefficient of my new approach shoes on the rock. I picture myself waltzing across it, then starting to run from the mosquitos through the forest, and back to the car. 
 
-### Create a repository from this template
+Suddenly, my left foot skates ever so slightly. I stop cold and my relief turns to fear, as I look down to notice I had walked out onto the most polished section of quartz monzonite I'd ever seen. 
 
-* [Go to this repository page on Github](https://github.com/nicolas-van/bootstrap-4-github-pages).
-* Click the `Star` button on the top right. (OK, this step is facultative, but that would make you a nice person)
-* Click the `Use this template` button on the top right of the page.
+I react by turning in to go rock climbing, on terrain that was not steep enough to do so. I drop my knee, and start sliding... ever so slowly. I fall into a sitting position and begin desperately padding with my hands and feet. I keep sliding without gaining too much speed across the first 30 feet of slab. I have time to look at Sam, say "oh no!" before looking out to realize I can't see what I'm falling down, and think "Sam's watching me die" as I begin picking up speed while screaming "no!" over and over. 
 
-### Choose a name for your repository
+Just before the pitch increases, I make a meaningless attempt to shuffle out right to catch a shallow cleft in the rock. After my hands bounce off I turn out, finally able to see what I'm in for. The pitch picks up to over 70 degrees and I accelerate down the last 40 feet of slab.  
 
-Here we have two possibilities:
+I have no memory of the impact, and the slope at the bottom of the slab was thankfully steep enough to allow me to just continue tumbling another 25 feet or so down, enough for Sam to regain view to see me rag doll and bounce twice. 
 
-* **You want a user or organization website**
+![[assets/pictures/IMG_20240615_211736 (1).jpg]]
 
-  In this case your website's URL will be `http://<your username>.github.io` where `<your username>` is your Github user name.
+My memory seems to promptly return after I come to a stop, face down on top of several basket ball sized rocks sticking up out of the dirt. I move my fingers, and then my toes... I'm not paralyzed! I roll over on my side moaning, see Sam scrambling down to me, and notice that I'm soaking wet, covered in mud, and I can't breathe. 
 
-  Choose the repository name `<your username>.github.io`.
+I stand up in a daze as Sam cries out for me to stop moving. I rip my shirt off, look at my body for trauma, sit down, then roll onto my back panting, looking up at the cloudy sky. Immediately, a swarm of mosquitoes descends upon me. I pick up my left arm to look at the dozen or so already on it, and make a futile attempt to brush them off before giving up to just lay there, as the swarm returns. 
 
-* **You want a project website**
+Once Sam gets down to me we discuss the situation. I tell Sam I think I just have some bulging disks and my ribs hurt. He points out how good of a position we are in for a short-haul, and asks if I want him to go get help. I think about waiting there with the mosquitoes for hours, then go over the feedback my body is giving me from my injuries with him. I decide that I am going to try to walk the 100 feet to tree line to evaluate if walking out is on the table. 
 
-  In this case your website's URL will be `http://<your username>.github.io/<whatever you want>` where `<whatever you want>` can be any valid name for a Github repository.
+I hobble into the trees, yell back to Sam that I'm good for it, and that I'm going to keep going. I tell him my phone flew out of my pocket, and my watch off my wrist and ask him to look for them before grabbing my bag and coming down to catch up to me.
 
-  Choose the repository name `<whatever you want>`.
+After grabbing my things, he quickly catches up to me, and we finish the remaining 680 feet decent over 1.12 miles back to the car. I spend the next hour and a half shifting around in the passenger seat trying to minimize the pain until we get to the medical clinic in the valley. They load me up in an ambulance for a ride to El Cap meadow, where a CHP chopper is waiting to give me a ride to the nearest trauma center in Fresno. As we start rolling away, I loose it emotionally as I catastrophize about my future, and Dr. Warren (Who's now my PCP) clutches my hand back, while she pushes 50mg of ketamine into my IV.
 
-### Activate Github Pages on your repository
+![[assets/pictures/IMG_20240616_003254.jpg]]
 
-Go in the `Settings` page of your repository, in the `Github Pages`, under the `Source` parameter, choose `master branch` then `Save`.
+## Analysis
+As I finally finish writing this 9 months to the day after, I still routinely struggle with trying to comprehend the injuries I sustained, relative to the distance I traveled. The man who arrived in the trauma unit behind me was paralyzed from the waist down and needed an oral surgeon due to falling off his bike riding on the street in Fresno, with his helmet on. To my best estimates, I slid 70 feet down the slab, and then tumbled another 25 feet further down a fairly rocky slope, without a helmet. My only injuries were a mild compression fracture to my L1 vertebra, and a separated rib.
 
-### That's it
+![[assets/pictures/orca-image-507862254.jpeg]]
 
-Your Github Pages website with customizable Bootstrap 5 is now up and running, you can access it using the URL displayed by Github in the `Github Pages` settings.
+### My accident resulted from a combination of factors:
+1. **Confirmation Bias** – 6 seasons in Little Cottonwood Canyon allowed me to feel right at home on my first day in Tuolumne. I thought I knew how polished a glacier could get some white granite. I'd walked outward down steeper slabs in flip flops!
+2. **Complacency in Gear Selection** - I'm seasoned enough to have defaulted to carrying a small spray pen of Deet in the first-aid kit I *always* carry on me on alpine missions, from learning the mosquito lesson the hard way in the past. I was aware that I had forgotten it back in Huff, as I participated in the decision to leave Sam's bottle it in the car. 
+3. **Complacency in the Final Stages** – With the end of the exposed scramble in sight, I let my guard down. We all know 80 percent of accidents happen on the way down. I've been cracking jokes about going in on the walk back to the car after doing something cool for a decade.  
+4. **Moving with Haste** – The approaching storm and mosquito swarms created a false sense of urgency. Allowing external pressures to cause you to rush in consequential terrain is rarely a good idea. 
 
-## Customization Guide
+I am so extremely fortunate to have been able to get up and walk it off to avoid laying there for the mosquitoes on that damp slope. I don't have the resources required to fully communicate how grateful I am for the people here in Yosemite who have been there for me in some way, while I have been healing. The fact that I am not limited in anyway just 9 months later feels nothing short of miraculous. 
 
-### Modify the configuration
 
-You should at least edit the `_config.yml` file to edit your website's metadata, like the title, description and repository URL.
+![[assets/pictures/PXL_20240616_064723719.jpg]]
 
-### Change your theme
 
-This website uses the [Minty](https://bootswatch.com/minty/) Bootstrap theme by default. And you don't want to use the same theme everyone else uses do you?
 
-You can of course modify anything in the `_includes`, `_layouts` and `_sass` folders to customize both the HTML or CSS of your website, possibly referring to the [Bootstrap documentation](https://getbootstrap.com/) or the [Jekyll documentation](https://jekyllrb.com/) when needed. This is a normal part of web development and it is outside the scope of this guide.
-
-But if you don't know where to start I can recommend you to import a theme from [Bootswatch](https://bootswatch.com/).
-
-* Go on [Bootswatch](https://bootswatch.com/) and choose a theme that you like.
-* Using the top bar, download its `_variables.scss` and `_bootswatch.scss` files.
-* Copy the content of `_variables.scss` in `_sass/_variables.scss`.
-* Copy the content of `_bootswatch.scss` in `_sass/_bootstrap_customization.scss`.
-
-That's it, you now have a totally different appearance for you website.
-
-### Modify the content
-
-You probably don't want the present guide to be the front page of your website, so you should edit the `index.md` file. You probably also want to edit or delete the `CONTRIBUTING.md`, `README.md` and `LICENSE.md` files.
-
-Aside from that you can of course create new pages and posts like with any Jekyll website by refering to the [Jekyll documentation](https://jekyllrb.com/).
-
-### Run Jekyll on your computer to speed up testing
-
-Editing your website's content or theme directly on Github is completely possible but, due to the time Github Pages takes to update your website, it will probably be much more effective to work using a local Jekyll installation.
-
-To do so:
-
-* Install the [requirements for Jekyll](https://jekyllrb.com/docs/installation/).
-* Type `bundle install` at the root of your project to install the necessary Ruby dependencies.
-* Type `bundle exec jekyll serve` to launch the test Jekyll web server that will re-compile your work if you edit it.
-* You can then open `http://localhost:4000` in your web browser to see your work-in-progress website.
-
-Please note that, to ensure maximum compatibility with Github Pages, the `Gemfile` of this project references the `github-pages` gem, not Jekyll directly. This implies some differences in behavior compared to the official documentation of Jekyll.
-
-## Known issues
-
-* Bootstrap 5 should normally be post-processed using [Autoprefixer](https://github.com/postcss/autoprefixer). Even if it is possible to use autoprefixer with Jekyll, it is not possible with a classic Github Pages installation without adding some kind of pre-processing before publication. Since this project mostly aims compatibility with Github Pages I prefer to keep it that way. The consequences of this choice is that some Bootstrap features could not work as expected on older browsers.
-
-## How to contribute
-
-Like this project ? [Consider adding a star on Github](https://github.com/nicolas-van/bootstrap-4-github-pages).
-
-[You can also see the contribution guide](https://github.com/nicolas-van/bootstrap-4-github-pages/blob/master/CONTRIBUTING.md).
-
-## Websites using Bootstrap 4 Github Pages
-
-* [My personal blog](https://nicolas-van.github.io/)
-* [the wavelet's profile](https://thewavelet.github.io/)
-* [William Moore's website](https://will2bill.com/)
-* [roseblood.github.io](https://roseleblood.github.io/)
-* [borislouis.github.io](https://borislouis.github.io/)
-* [dariusnwadike.github.io](https://dariusnwadike.github.io/)
-* [libcoap.net](https://libcoap.net/)
-
-## Other Github Pages related projects
-
-I'm a fan of Github Pages for the possibilities it offers to anyone to publish a website for free. I have multiple projects that could be of interest if that's your case too:
-
-* [Easy Markdown to Github Pages](https://nicolas-van.github.io/easy-markdown-to-github-pages/)
-* [Parcel Github Pages Boilerplate](https://github.com/nicolas-van/parcel-github-pages-boilerplate)
 
