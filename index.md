@@ -31,7 +31,7 @@ Once Sam gets down to me we discuss the situation. I tell Sam I think I just hav
 
 I hobble into the trees, yell back to Sam that I'm good for it, and that I'm going to keep going. I tell him my phone flew out of my pocket, and my watch off my wrist and ask him to look for them before grabbing my bag and coming down to catch up to me.
 
-After grabbing my things, he quickly catches up to me, and we finish the remaining 680 feet decent over 1.12 miles back to the car. I spend the next hour and a half shifting around in the passenger seat trying to minimize the pain until we get to the medical clinic in the valley. They load me up in an ambulance for a ride to El Cap meadow, where a CHP chopper is waiting to give me a ride to the nearest trauma center in Fresno. As we start rolling away, I loose it emotionally as I catastrophize about my future, and Dr. Warren (Who's now my PCP) clutches my hand back, while she pushes 50mg of ketamine into my IV.
+After grabbing my things, he quickly catches up to me, and we finish the remaining 680 feet descent over 1.12 miles back to the car. I spend the next hour and a half shifting around in the passenger seat trying to minimize the pain until we get to the medical clinic in the valley. They load me up in an ambulance for a ride to El Cap meadow, where a CHP chopper is waiting to give me a ride to the nearest trauma center in Fresno. As we start rolling away, I lose it emotionally from catastrophizing about my future, and Dr. Warren (Who's now my PCP) clutches my hand back, while she pushes 50mg of ketamine into my IV.
 
 ![](/assets/pictures/IMG_20240616_003254.jpg)
 
